@@ -11,15 +11,15 @@
     "success_url": "https://telegram.me/diljalechatsherebot",
     "stack": "container",
     "env": {
-        "API_ID": {
+        "API_ID": {22940312
             "description": "26416404",
             "required": true
         },
-        "API_HASH": {
+        "API_HASH": {82fb5cd2de25e4c01021b8bbae9909bb
             "description": "655b8dc1517dacb007deb53fc0fda30d",
             "required": true
         },
-        "BOT_TOKEN": {
+        "BOT_TOKEN": {7897658582:AAFA37trAifHfoWBLcDs9wM9XWpe2C0k5qY
             "description": "Enter your bot token",
             "required": true
         }
